@@ -13,3 +13,6 @@ Worked more with React and properities (passing props, default props, overriding
 
 #R1D3
 Continued to work with React, but the lessons from freecodecamp are a little outdated, so I'm basically learning (old) new stuff. it's a bit confusing and makes me apreciate version 17, and how much easier they made it.
+
+#R1D4
+Continued to work with React, the lessons from freecodecamp. Learned about this.state and binding.
