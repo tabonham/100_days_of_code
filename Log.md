@@ -16,3 +16,6 @@ Continued to work with React, but the lessons from freecodecamp are a little out
 
 #R1D4
 Continued to work with React, the lessons from freecodecamp. Learned about this.state and binding.
+
+#R1D5
+I played some CSS games, Flexbox Froggy and started Grid Garden to sharpen my skills!
