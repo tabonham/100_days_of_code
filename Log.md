@@ -19,3 +19,6 @@ Continued to work with React, the lessons from freecodecamp. Learned about this.
 
 #R1D5
 I played some CSS games, Flexbox Froggy and started Grid Garden to sharpen my skills!
+
+#R1D6
+Worked on some more React on FreeCodeCamp. 
