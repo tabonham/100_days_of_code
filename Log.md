@@ -27,3 +27,6 @@ Worked on some more React on FreeCodeCamp.
 
 #R1D7
 I finished the React portion of the outdated FreeCodeCamp ( was not really feeling it ) The this.prop.whatever was soooo confusing.
+
+#R1D8
+Going back to basic so I don't reget basic HTML and CSS. LOL
