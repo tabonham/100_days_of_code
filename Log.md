@@ -30,3 +30,6 @@ I finished the React portion of the outdated FreeCodeCamp ( was not really feeli
 
 #R1D8
 Going back to basic so I don't reget basic HTML and CSS. LOL
+
+#R1D9
+Working on more HTML but with tables!
