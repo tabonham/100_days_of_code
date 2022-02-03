@@ -33,3 +33,6 @@ Going back to basic so I don't reget basic HTML and CSS. LOL
 
 #R1D9
 Working on more HTML but with tables!
+
+#R1D10
+I'm in the process of making a pure HTML website project just to get practice in.
