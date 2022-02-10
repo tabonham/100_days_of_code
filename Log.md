@@ -36,3 +36,7 @@ Working on more HTML but with tables!
 
 #R1D10
 I'm in the process of making a pure HTML website project just to get practice in.
+
+##Back to day one
+#R1D1
+I fell a week behind due to being busy with getting everything squared away with a new job, and pretty much life happened. But I'm not stopping, just have to start the clock over. Here I go, still swimming. :)
