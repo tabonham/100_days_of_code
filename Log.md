@@ -44,3 +44,6 @@ I fell a week behind due to being busy with getting everything squared away with
 #RD2
 I am recording my fails also. It will help me see my full journey in becomes who and what I am. I've got this.
 I didn't write code but I had a conversation about CMS and read up on them.
+
+#RD3
+Really sticking with some hard core CSS learning.
