@@ -40,3 +40,7 @@ I'm in the process of making a pure HTML website project just to get practice in
 ##Back to day one
 #R1D1
 I fell a week behind due to being busy with getting everything squared away with a new job, and pretty much life happened. But I'm not stopping, just have to start the clock over. Here I go, still swimming. :)
+
+#RD2
+I am recording my fails also. It will help me see my full journey in becomes who and what I am. I've got this.
+I didn't write code but I had a conversation about CMS and read up on them.
