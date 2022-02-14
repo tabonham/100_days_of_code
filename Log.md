@@ -34,6 +34,7 @@ Going back to basic so I don't reget basic HTML and CSS. LOL
 #R1D9
 Working on more HTML but with tables!
 
+
 #R1D10
 I'm in the process of making a pure HTML website project just to get practice in.
 
@@ -41,9 +42,12 @@ I'm in the process of making a pure HTML website project just to get practice in
 #R1D1
 I fell a week behind due to being busy with getting everything squared away with a new job, and pretty much life happened. But I'm not stopping, just have to start the clock over. Here I go, still swimming. :)
 
-#RD2
+#R1D2
 I am recording my fails also. It will help me see my full journey in becomes who and what I am. I've got this.
 I didn't write code but I had a conversation about CMS and read up on them.
 
-#RD3
+#R1D3
 Really sticking with some hard core CSS learning.
+
+#R1D4
+Learning and working more with CSS.
