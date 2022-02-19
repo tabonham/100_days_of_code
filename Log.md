@@ -59,4 +59,7 @@ Learning about diffrent terminologies.
 Back to CSS.
 
 #R1D7
-couldn't get to any coding until late, but pulled it off! Boy, do I love codecademy!
+Couldn't get to any coding until late, but pulled it off! Boy, do I love codecademy!
+
+#R1D8
+Trucking along with CSS still.
