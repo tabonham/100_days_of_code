@@ -51,3 +51,10 @@ Really sticking with some hard core CSS learning.
 
 #R1D4
 Learning and working more with CSS.
+
+#R1D5
+Learning about diffrent terminologies.
+
+#R1D6
+Back to CSS.
+
