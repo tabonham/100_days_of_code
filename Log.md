@@ -58,3 +58,5 @@ Learning about diffrent terminologies.
 #R1D6
 Back to CSS.
 
+#R1D7
+couldn't get to any coding until late, but pulled it off! Boy, do I love codecademy!
