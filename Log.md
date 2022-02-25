@@ -69,3 +69,6 @@ I didn't save my progress on here! Grrr...
 
 #R1D11
 I watched a couple of (what is) UX videos. I just wanted to see what the design side of websites is like. You, since that is kinda what my new job will be like.
+
+#RD12
+I made a simple JS bg color changer and pushed it to GitHub. :)
