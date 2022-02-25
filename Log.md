@@ -63,3 +63,9 @@ Couldn't get to any coding until late, but pulled it off! Boy, do I love codecad
 
 #R1D8
 Trucking along with CSS still.
+
+#R1D8,9,10
+I didn't save my progress on here! Grrr...
+
+#R1D11
+I watched a couple of (what is) UX videos. I just wanted to see what the design side of websites is like. You, since that is kinda what my new job will be like.
