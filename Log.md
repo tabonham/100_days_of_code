@@ -72,3 +72,6 @@ I watched a couple of (what is) UX videos. I just wanted to see what the design 
 
 #RD12
 I made a simple JS bg color changer and pushed it to GitHub. :)
+
+#R1D13
+I made a simple js mouse over photo gallery webpage.
