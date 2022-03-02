@@ -75,3 +75,6 @@ I made a simple JS bg color changer and pushed it to GitHub. :)
 
 #R1D13
 I made a simple js mouse over photo gallery webpage.
+
+#R1D14, 15, 16
+I didn't get a change to record what I did. BUT, I did on Twitter! Started to learn about UX.
