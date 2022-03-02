@@ -78,3 +78,6 @@ I made a simple js mouse over photo gallery webpage.
 
 #R1D14, 15, 16
 I didn't get a change to record what I did. BUT, I did on Twitter! Started to learn about UX.
+
+#R1D17
+I built a React tic tax toe app from the tutorial that is on reactjs.org.
